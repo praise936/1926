@@ -69,7 +69,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'core.wsgi.application'
 
 
-
+# fdfhghj
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
