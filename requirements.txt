@@ -1,0 +1,9 @@
+Django
+djangorestframework
+Pillow
+django-filter
+python-decouple
+psycopg2-binary
+django-cors-headers
+gunicorn
+whitenoise
